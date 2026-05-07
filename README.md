@@ -22,7 +22,7 @@ DevSensei combines several study tools into one app so users can switch from pra
 
 ## Live Demo
 
-Add your deployed Netlify URL here after publishing.
+https://dev-sensei.netlify.app/
 
 ## Screenshots
 
